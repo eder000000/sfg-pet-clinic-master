@@ -96,7 +96,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:eder000000/sfg-pet-clinic-master.git</developerConnection>
+        <developerConnection>scm:git:https://github.com:eder000000/sfg-pet-clinic-master.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
