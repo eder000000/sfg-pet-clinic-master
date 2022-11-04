@@ -97,7 +97,6 @@
 
     <scm>
         <developerConnection>scm:git:origin</developerConnection>
-      <tag>HEAD</tag>
   </scm>
 
 </project>
