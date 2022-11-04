@@ -96,7 +96,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com:origin</developerConnection>
+        <developerConnection>scm:git:origin</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
