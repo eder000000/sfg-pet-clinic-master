@@ -22,7 +22,7 @@
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>com.eder000000</groupId>
-            <version>0.0.5</version>
+            <version>0.0.5-SNAPSHOT</version>
         </dependency>
 
         <dependency>
